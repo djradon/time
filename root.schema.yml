@@ -1,0 +1,16 @@
+version: 1
+imports: []
+schemas:
+  - id: root
+    title: year
+    parent: root
+    template: templates.year
+    pattern: "[0-2][0-9][0-9][0-9]"
+    children:
+      - pattern: "[0-1][0-9]"
+        template: templates.month
+        children:
+         - pattern: "[0-3][0-9]"
+           template: templates.day
+
+
