@@ -1,7 +1,7 @@
 version: 1
 imports: []
 schemas:
-  - id: root
+  - id: year
     title: year
     parent: root
     template: templates.year
