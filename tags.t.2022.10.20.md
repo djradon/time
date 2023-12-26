@@ -2,10 +2,19 @@
 id: 0mkkm4y3za52ju70vypo9me
 title: 2022.10.20
 desc: the day I figured out how to do time in Dendron
-updated: 1667805549733
+updated: 1703094885142
 created: 1666330812115
 ---
 
+## Thoughts
+
+- t.2023.12.20.09 ^6rpm36f0v9cq
+  - keep backlinks semantically useful. You can always use search to find everything you did on a certain time hierarchy
+  - so... probably no reason not to use un-namespaced ISO-ish? e.g. 2023-12-20T09
+    - well, the obvious reason is so you don't accidentally include things like urls or identifiers that match yyyy or yyyy-mm
+
+
+## Archive
 
 - a collection of empty notes (although adding content couldn't hurt... what would it be? Thoughts about that time? )
 - public vs. private
